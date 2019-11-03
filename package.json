@@ -4,6 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
+    "generate-data": "node --max_old_space_size=4096 server/database/seed-database.js",
     "test": "jest",
     "react-dev": "webpack -w",
     "start": "node ./server/server.js",
