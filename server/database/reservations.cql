@@ -4,14 +4,14 @@ USE hackshack;
 
 CREATE TABLE reservations (
   id INT,
-  listing_id INT,
+  id_listings INT,
   start_date VARCHAR,
   end_date VARCHAR,
   adult_count INT,
   children_count INT,
   infant_count INT,
   total DECIMAL,
-  PRIMARY KEY (listing_id, start_date)
+  PRIMARY KEY (id_listings, start_date)
 );
 
 CREATE TABLE listings (

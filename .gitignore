@@ -3,3 +3,5 @@ server/config/sqlConfig.js
 sqlConfig.env
 server/database/listings.csv
 server/database/reservations.csv
+newrelic.js
+server/database/csvfiles/
