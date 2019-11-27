@@ -1,4 +1,4 @@
-![Screenshot](https://imgur.com/Nbivpjz)
+![Screenshot](https://i.imgur.com/Nbivpjz.png)
 
 # Reservations
 
