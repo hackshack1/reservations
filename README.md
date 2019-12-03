@@ -136,8 +136,7 @@ $[{
 
 ## FAQ
 
-- **This module looks identical to Airbnb. Why was this made?**
-    - Permission from Airbnb was requested and provided.
+- **Why was this made?**
     - This website was created as a tool to compare benchmarks between two different databases while simulating a real-world situation.
 
 ---
