@@ -1,5 +1,3 @@
-![Screenshot](https://i.imgur.com/Nbivpjz.png)
-
 # Reservations
 
 The reservations module of hackshack is an app that displays reservation availabilities, allows inserting a new reservation, and updating the calendar.
